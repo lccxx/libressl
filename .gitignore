@@ -201,3 +201,5 @@ openbsd/
 *.tar.gz
 man/Makefile.am
 man/mandoc.db
+
+ssl/libssl_la_objects.mk
